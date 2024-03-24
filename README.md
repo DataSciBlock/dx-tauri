@@ -7,14 +7,14 @@ Tauir + React + Typescript + Rust
 ## To Run
 
 ```bash
-  pnpm install
-    pnpm tauri dev
+pnpm install
+pnpm tauri dev
 ```
 
 ### To Run ios
 
 ```bash
-  pnpm tauri ios dev
+pnpm tauri ios dev
 ```
 
 # TODO
