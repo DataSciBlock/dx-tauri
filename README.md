@@ -1,6 +1,38 @@
-# Tauri + React + Typescript
+# DXBlock
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+## Stack
+
+Tauir + React + Typescript + Rust
+
+## To Run
+
+```bash
+  pnpm install
+    pnpm tauri dev
+```
+
+### To Run ios
+
+```bash
+  pnpm tauri ios dev
+```
+
+# TODO
+
+## Playtest
+
+- [ ] Data Processing (Rust)
+- [ ] Data Visualization (Plotly?Plotters?d3.js?) (Rust or JS)
+- [ ] Animation (Rust or JS)
+- [ ] Blockly?
+- [ ] Data Analysis (Rust or JS)
+- [ ] Export Code (Rust or JS)
+  ### Extra
+  - [ ] Sound (Rust or JS)
+
+## Blocks
+
+https://trello.com/b/U7LYJEuk/dxblockallblock
 
 ## Recommended IDE Setup
 
